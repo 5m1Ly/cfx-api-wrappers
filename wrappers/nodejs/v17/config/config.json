@@ -1,0 +1,7 @@
+{
+	"protocol": "http",
+	"ip": "127.0.0.1",
+	"port": "30120",
+	"resource": "cfx-api-lib",
+	"token": ""
+}

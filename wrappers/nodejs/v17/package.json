@@ -1,0 +1,15 @@
+{
+	"name": "cfx-api-wrapper-nodejs-v17",
+	"version": "1.0.0",
+	"description": "Wrapper for the cfx api library",
+	"main": "app.js",
+	"scripts": {
+		"start": "node app.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Sm1Ly",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.26.1"
+	}
+}
