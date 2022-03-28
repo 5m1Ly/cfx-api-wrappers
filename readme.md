@@ -1,7 +1,6 @@
 # Cfx Api Library Wrappers
 
-Within this repository you'll find wrappers for the following languages and libraries
-
-| lang / lib | supported versions |
+Supported langs and libs
+| lang / lib | versions           |
 |------------|--------------------|
 | NodeJS     | v17                |
